@@ -1,0 +1,22 @@
+{
+  "name": "triangulo-retangulo-web-quest",
+  "version": "0.1.0",
+  "description": "WebQuest para apresentar as características e as relações matemáticas intrínsecas de um Triângulo do tipo Retângulo",
+  "author": "Wallison Félix <wallison.felix@gmail.com>",
+  "contributors": [],
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wallisonfelix"
+  },
+  "keywords": [
+    "Triângulo Retângulo",
+    "WebQuest"
+  ],
+  "dependencies": {
+    "ejs": "~2.4.0",
+    "express": "~4.13.0"
+  },
+  "private": false,
+  "subdomain": "TrianguloRetanguloWebQuest"
+}
